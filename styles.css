@@ -1,0 +1,37 @@
+html, body {
+    background-color: tan;
+    height: 100%;
+    margin: 0;
+}
+
+.header.index {
+    text-align: center;
+    font-size: 50px;
+    font-family: "Comic Sans MS", verdana, sans-serif;
+    padding: 20px;
+}
+
+.recipe-list li {
+    text-align: center;
+    font-size: 20px;
+    list-style-type: none;
+    padding: 10px;
+}
+
+.recipe-list a:link {
+    text-decoration: none;
+}
+
+.recipe-list a {
+    color: black;
+}
+
+.header img {
+    height: 50px;
+    width: auto;
+
+}
+
+footer {
+    text-align: center;
+}
